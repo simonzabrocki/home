@@ -15,22 +15,10 @@ const mainBody = {
       image: "fa-github",
       url: "https://github.com/simonzabrocki",
     },
-    // {
-    //   image: "fa-facebook",
-    //   url: "https://www.facebook.com/hashirshoaeb",
-    // },
-    // {
-    //   image: "fa-instagram",
-    //   url: "https://www.instagram.com/hashirshoaeb/",
-    // },
     {
       image: "fa-linkedin",
       url: "https://www.linkedin.com/in/simon-zabrocki/",
     },
-    // {
-    //   image: "fa-twitter",
-    //   url: "https://www.twitter.com/hashirshoaeb/",
-    // },
   ],
 };
 
@@ -51,7 +39,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/simonzabrocki.jpeg"),
+  //imageLink: require("../editable-stuff/simonzabrocki.jpeg"),
   imageSize: 375,
   message:
     "My name is Simon Zabrocki. I am a data scientist that graduated from two of Europe's top engineering institutions. Through experiences at a variety of organisations across the world I acquired skills covering the whole data science pipeline. Fluency in Python and R allows me to build data solutions including collection, processing, machine learning modeling, statistical analysis and visualization",
@@ -66,20 +54,22 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "hashirshoaeb", //i.e."johnDoe12Gh"
-  reposLength: 4,
-  specificRepos: [],
+  gitHubUsername: "simonzabrocki", //i.e."johnDoe12Gh"
+  reposLength: 0,
+  specificRepos: ['variational-models', 'GraphModels', 'skill-segmentation']
 };
+
+
 
 // Leadership SECTION
 const leadership = {
   show: false,
-  heading: "Leadership",
+  heading: "Portfolio",
   message:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae auctor eu augue ut lectus arcu bibendum at varius. Libero justo laoreet sit amet cursus sit amet. Imperdiet dui accumsan sit amet nulla facilisi morbi. At auctor urna nunc id. Iaculis urna id volutpat lacus laoreet non curabitur gravida. Et magnis dis parturient montes nascetur ridiculus mus mauris. In nisl nisi scelerisque eu ultrices vitae auctor. Mattis nunc sed blandit libero volutpat sed cras ornare. Pulvinar neque laoreet suspendisse interdum consectetur libero.",
   images: [
     { 
-      img: require("../editable-stuff/simonzabrocki.jpeg"), 
+      img: require("../editable-stuff/dashboard.png"), 
       label: "First slide label", 
       paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
@@ -131,19 +121,35 @@ const getInTouch = {
 };
 
 const experiences = {
-  show: false,
+  show: true,
   heading: "Experiences",
   data: [
     {
-      role: 'Software Engineer',// Here Add Company Name
-      companylogo: require('../assets/img/dell.png'),
-      date: 'June 2018 – Present',
+      role: 'Global Green Growth Institute, Data Scientist',// Here Add Company Name
+      companylogo: require('../assets/img/GGGI.png'),
+      date: 'July 2020 – Present',
     },
     {
-      role: 'Front-End Developer',
-      companylogo: require('../assets/img/boeing.png'),
-      date: 'May 2017 – May 2018',
+      role: 'Hawa Dawa, Data Scientist',
+      companylogo: require('../assets/img/hawadawa.png'),
+      date: 'February 2020 – July 2020',
     },
+    {
+      role: 'Helmholtz Zentrum, Research student',
+      companylogo: require('../assets/img/HMGU.jpg'),
+      date: 'February 2020 – July 2020',
+    },
+    {
+      role: 'Sanofi R&D, Data Scientist',
+      companylogo: require('../assets/img/sanofi.png'),
+      date: 'April 2019 – August 2019',
+    },
+    {
+      role: 'Manatal, Python Developer',
+      companylogo: require('../assets/img/manatal.png'),
+      date: 'June 2018 – August 2018',
+    },
+    
   ]
 }
 
