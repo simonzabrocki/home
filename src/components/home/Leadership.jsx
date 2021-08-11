@@ -19,6 +19,7 @@ const Leadership = ({ heading, message, img, imageSize }) => {
               {img.map((value, index) => {
                 return (
                   <Carousel.Item>
+                    <a href={value.link} target="_blank">
                     <img
                       className="d-block w-100"
                       src={value.img}
@@ -26,11 +27,10 @@ const Leadership = ({ heading, message, img, imageSize }) => {
                       width={imageSize.width}
                       height={imageSize.height}
                     />
-                    <Carousel.Caption>
+                    </a>
+                    <Carousel.Caption style={{backgroundColor: 'rgba(29, 44, 42, 0.3)',}}>
                       <h3>{value.label}</h3>
-                      <p>
-                        {value.paragraph}
-                      </p>
+                      <p>{value.paragraph}</p>
                     </Carousel.Caption>
                   </Carousel.Item>
                 );
