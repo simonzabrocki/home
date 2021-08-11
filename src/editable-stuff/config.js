@@ -64,7 +64,7 @@ const repos = {
 // Leadership SECTION
 const leadership = {
   show: true,
-  heading: "Portfolio",
+  heading: "Portofolio",
   message:
     "From data vizualisation to state of the art machine learning modeling, my skills cover the full data science pipeline. Here are public examples of data science projects conducted over the past years. Click on the picture for more details.",
   images: [
