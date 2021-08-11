@@ -88,8 +88,8 @@ const leadership = {
     },
   ],
   imageSize: {
-    width:"709",
-    height:"334"
+    width:"921",
+    height:"350"
   }
 };
 

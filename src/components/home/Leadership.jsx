@@ -28,7 +28,7 @@ const Leadership = ({ heading, message, img, imageSize }) => {
                       height={imageSize.height}
                     />
                     </a>
-                    <Carousel.Caption style={{backgroundColor: 'rgba(29, 44, 42, 0.3)',}}>
+                    <Carousel.Caption style={{backgroundColor: 'rgba(29, 44, 42, 0.5)',}}>
                       <h3>{value.label}</h3>
                       <p>{value.paragraph}</p>
                     </Carousel.Caption>
