@@ -21,7 +21,8 @@ const Leadership = ({ heading, message, img, imageSize }) => {
                   <Carousel.Item>
                     <a href={value.link} target="_blank">
                     <img
-                      className="d-block w-100"
+                      // className="d-block w-100"
+                      className="img-fluid"
                       src={value.img}
                       alt="First slide"
                       width={imageSize.width}
