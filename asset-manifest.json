@@ -1,29 +1,30 @@
 {
   "files": {
     "main.css": "/home/static/css/main.f5497eb8.chunk.css",
-    "main.js": "/home/static/js/main.637d9f1b.chunk.js",
-    "main.js.map": "/home/static/js/main.637d9f1b.chunk.js.map",
+    "main.js": "/home/static/js/main.757ee5f2.chunk.js",
+    "main.js.map": "/home/static/js/main.757ee5f2.chunk.js.map",
     "runtime-main.js": "/home/static/js/runtime-main.3c590061.js",
     "runtime-main.js.map": "/home/static/js/runtime-main.3c590061.js.map",
-    "static/js/2.2374709b.chunk.js": "/home/static/js/2.2374709b.chunk.js",
-    "static/js/2.2374709b.chunk.js.map": "/home/static/js/2.2374709b.chunk.js.map",
+    "static/js/2.4be66789.chunk.js": "/home/static/js/2.4be66789.chunk.js",
+    "static/js/2.4be66789.chunk.js.map": "/home/static/js/2.4be66789.chunk.js.map",
     "index.html": "/home/index.html",
-    "precache-manifest.556bfdcd4ee4910ceb5ca84c9ea4dc22.js": "/home/precache-manifest.556bfdcd4ee4910ceb5ca84c9ea4dc22.js",
+    "precache-manifest.e60ae2f734e7d3f455682a73e339a790.js": "/home/precache-manifest.e60ae2f734e7d3f455682a73e339a790.js",
     "service-worker.js": "/home/service-worker.js",
     "static/css/main.f5497eb8.chunk.css.map": "/home/static/css/main.f5497eb8.chunk.css.map",
-    "static/js/2.2374709b.chunk.js.LICENSE.txt": "/home/static/js/2.2374709b.chunk.js.LICENSE.txt",
+    "static/js/2.4be66789.chunk.js.LICENSE.txt": "/home/static/js/2.4be66789.chunk.js.LICENSE.txt",
     "static/media/GGGI.png": "/home/static/media/GGGI.9f9631d0.png",
-    "static/media/ZABROCKI_CV.pdf": "/home/static/media/ZABROCKI_CV.ef313694.pdf",
-    "static/media/dashboard.png": "/home/static/media/dashboard.d58c4d35.png",
+    "static/media/ZABROCKI_CV.pdf": "/home/static/media/ZABROCKI_CV.7e41de28.pdf",
+    "static/media/dashboard.png": "/home/static/media/dashboard.7f60b37a.png",
     "static/media/hawadawa.png": "/home/static/media/hawadawa.51d02ac2.png",
     "static/media/resume.pdf": "/home/static/media/resume.9d3da0e2.pdf",
     "static/media/sanofi.png": "/home/static/media/sanofi.6b607c65.png",
-    "static/media/simonzabrocki.jpeg": "/home/static/media/simonzabrocki.7ba449b2.jpeg"
+    "static/media/skillgraph.png": "/home/static/media/skillgraph.6da0de35.png",
+    "static/media/variational_archi.png": "/home/static/media/variational_archi.32da6bf5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3c590061.js",
-    "static/js/2.2374709b.chunk.js",
+    "static/js/2.4be66789.chunk.js",
     "static/css/main.f5497eb8.chunk.css",
-    "static/js/main.637d9f1b.chunk.js"
+    "static/js/main.757ee5f2.chunk.js"
   ]
 }

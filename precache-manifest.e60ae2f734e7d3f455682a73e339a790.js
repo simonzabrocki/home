@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d9579b52be5809e93bf37d3e517d6b50",
+    "revision": "879d172b4fac1b7c1e423a5074aa9e78",
     "url": "/home/index.html"
   },
   {
-    "revision": "9ab858d55ed27af3df50",
+    "revision": "215f1184d8f75aa0d2a1",
     "url": "/home/static/css/main.f5497eb8.chunk.css"
   },
   {
-    "revision": "385bc3e61d3effd2a5d4",
-    "url": "/home/static/js/2.2374709b.chunk.js"
+    "revision": "5e653eaccf429542dc9b",
+    "url": "/home/static/js/2.4be66789.chunk.js"
   },
   {
     "revision": "29eb69a08ea4198f7b46e1db8a3d5045",
-    "url": "/home/static/js/2.2374709b.chunk.js.LICENSE.txt"
+    "url": "/home/static/js/2.4be66789.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9ab858d55ed27af3df50",
-    "url": "/home/static/js/main.637d9f1b.chunk.js"
+    "revision": "215f1184d8f75aa0d2a1",
+    "url": "/home/static/js/main.757ee5f2.chunk.js"
   },
   {
     "revision": "c0578b487099793a068c",
@@ -28,12 +28,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/home/static/media/GGGI.9f9631d0.png"
   },
   {
-    "revision": "ef313694df86687cd6be3e2f882d9a45",
-    "url": "/home/static/media/ZABROCKI_CV.ef313694.pdf"
+    "revision": "7e41de28f8bc4deece0ff4cc0432887a",
+    "url": "/home/static/media/ZABROCKI_CV.7e41de28.pdf"
   },
   {
-    "revision": "d58c4d353db0c7fc8f3eddb6be4c1045",
-    "url": "/home/static/media/dashboard.d58c4d35.png"
+    "revision": "7f60b37a60afd0073c9d17bdab0dffb5",
+    "url": "/home/static/media/dashboard.7f60b37a.png"
   },
   {
     "revision": "51d02ac2354b07f4f9c5ee52a97c44fe",
@@ -48,7 +48,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/home/static/media/sanofi.6b607c65.png"
   },
   {
-    "revision": "7ba449b24a89ed426a3759dbfd6eb0e1",
-    "url": "/home/static/media/simonzabrocki.7ba449b2.jpeg"
+    "revision": "6da0de356da814cbb0cd6d6cdb4c0108",
+    "url": "/home/static/media/skillgraph.6da0de35.png"
+  },
+  {
+    "revision": "32da6bf5c1fa2e1d23000197dc442afe",
+    "url": "/home/static/media/variational_archi.32da6bf5.png"
   }
 ]);
