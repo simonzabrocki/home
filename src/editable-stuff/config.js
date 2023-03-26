@@ -56,7 +56,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "simonzabrocki", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: ['variational-models', 'GraphModels', 'skill-segmentation', 'GreenGrowthDownloader']
+  specificRepos: ['variational-models', 'GraphModels', 'GreenGrowthDownloader']
 };
 
 
@@ -79,12 +79,6 @@ const leadership = {
       label: "", 
       paragraph: "Research on Machine learning for Genetic risk prediction" ,
       link: 'https://drive.google.com/file/d/1RCdcSa3zsMey0W1eJd3eGr0CAPzXEEGz/view?usp=sharing'
-    },
-    { 
-      img: require("../editable-stuff/skillgraph.png"), 
-      label: "", 
-      paragraph: "Skill segmentation for applicant tracking systems" ,
-      link: 'https://github.com/simonzabrocki/skill-segmentation'
     },
   ],
   imageSize: {
